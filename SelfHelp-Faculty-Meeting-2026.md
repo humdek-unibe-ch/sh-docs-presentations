@@ -14,7 +14,9 @@ Historical reference points reviewed: 2021 and 2023 presentation materials
 
 ### Speaker Notes
 
-I would open with one simple sentence: SelfHelp is no longer just a website tool. It has become a platform for building and running digital programs.
+Some of you may remember that we already presented SelfHelp here in 2021. For others, this may be the first introduction. In both cases, the interesting part today is to see how far the platform has evolved since then.
+
+SelfHelp is no longer just a website tool. It has become a platform for building and running digital programs.
 
 What makes it interesting is the combination. In one system, we can publish content, collect data, automate steps, support mobile use, and now add AI-supported interactions. That means we are not only creating pages. We are creating complete digital journeys.
 
@@ -66,13 +68,15 @@ Add a simple diagram:
 
 ### Speaker Notes
 
-The history matters because it shows continuity. SelfHelp did not suddenly change into something else. It kept the original idea and widened it.
+I would connect this slide back to the audience first. We already showed SelfHelp in this faculty setting in 2021, so this is not a completely new story. It is more a continuation. Some people in the room may remember the earlier version, and this slide helps show what changed since then.
 
-The earlier message was about self-help, research support, local hosting, and easy customization. Then the platform became more operational. Modular page building matured. Scheduling and automation matured. Mobile support became more realistic.
+At the beginning, the message was quite simple: SelfHelp helped us build self-help and research-oriented websites, host them ourselves, and adapt them without too much custom development.
 
-In the current state, the biggest visible advances are underneath the surface: a stronger unified data model, more systematic workflows, tighter permissions, two-factor authentication, and event-based refresh logic for background processes. On top of that, we now have a serious AI layer.
+After that, the platform became much more operational. The page system became more modular, automation became more reliable, and mobile support became much more usable in practice.
 
-So the story is not hype. The story is platform maturity.
+And in the current stage, a lot of the progress is in the foundation: better data structures, more systematic workflows, stronger permissions, two-factor authentication, and infrastructure for background processes and live updates. On top of that, we now have a real AI layer.
+
+So the main point of this slide is: the idea stayed the same, but the platform became much more mature and much more capable.
 
 ### Image Placeholder
 
@@ -126,13 +130,15 @@ Under each step, add one SelfHelp capability.
 
 ### Speaker Notes
 
-This is the slide where I would show that the value is not one isolated feature. The value is the surrounding architecture.
+This slide is here to prepare the audience for the three main plugins we will look at next: SurveyJS, the general LLM plugin, and the LLM Therapy Chat plugin.
 
-Beyond the three plugins we will focus on, the wider plugin landscape is important. There is an API layer for app and external integrations. There is external authentication support, which is important for institutional access models. There are integrations for Qualtrics and Lab.js, which means SelfHelp can work with established research tooling instead of replacing everything at once.
+Before going into those three, I want to show that they do not stand alone. They sit inside a larger platform architecture. There is an API layer that connects the web platform, the mobile app, and external services. There is external authentication support, which matters for institutional deployment. There are also plugins for Lab.js experiments, formula-based logic, R-based computation, video-linked workflows, and sensing data integration.
 
-There are also plugins for formula-based logic, R-based computation, mobile sensing, and video-linked workflows. That tells us something important about the platform's identity. It was built to support real academic and applied projects that have different methods, not just one standard content format.
+The sensing part is worth explaining clearly. Here SelfHelp does not collect the raw wearable data itself. Another platform collects data from devices such as Garmin and similar sources, and SelfHelp can pull that data in and use it in the wider workflow.
 
-If I had to name the most strategically important supporting plugins besides the three focus plugins, I would single out the API layer, external authentication, Qualtrics and Lab.js integration, and the R and sensing extensions. They make SelfHelp much more credible as a long-term university platform.
+That tells us something important about SelfHelp's identity. It was built to support real projects with different methods and different data sources, not just one standard survey or content format.
+
+If I mention the most important supporting pieces around the three main plugins, I would highlight the API layer, external authentication, Lab.js, R integration, and sensing integration. They make the overall platform much stronger.
 
 ### Image Placeholder
 
@@ -222,8 +228,9 @@ This is probably the most distinctive plugin in the current platform.
 The important point is that it is not trying to replace human support. It is building a supervised interaction model. A user can interact with AI, but therapists remain present through a dedicated dashboard. They can review the conversation, intervene, send their own messages, create notes, generate drafts, and manage risk status.
 
 The escalation model is central. The system supports moving from AI-supported interaction to direct human handling. And when safety signals are triggered, the conversation can be switched into human-only mode.
+But it is also important to say that this plugin does not have to run as AI chat. It can also run in a human-only setup. That means we can configure different groups or different study conditions and compare, for example, AI-supported interaction versus purely human interaction.
 
-That is why this plugin is so valuable conceptually. It shows that SelfHelp is not only adopting AI. It is shaping AI into a workflow that still respects oversight and responsibility.
+That is why this plugin is so valuable conceptually. It is flexible enough for service delivery, but also very interesting for research design, because it allows different communication models inside the same framework while keeping therapist oversight and responsibility in place.
 
 ### Image Placeholder
 
