@@ -69,7 +69,7 @@ In 2021, SelfHelp was mainly presented as a platform for self-help and research 
 
 Then from 2024 to 2026, a lot of the progress happened in the foundation. The data model became stronger, workflows became more systematic, permissions became clearer, and two-factor authentication was added.
 
-On top of that stronger base, AI could then be added in a more serious way. So the overall direction is clear. SelfHelp started with content publishing, and it is now moving toward structured digital program delivery.
+Once that foundation became stronger, it made sense to add AI in a more serious way. So if you look at the overall direction, SelfHelp started as a content platform and is now growing into a platform for structured digital programs.
 
 ### Image Placeholder
 
@@ -123,7 +123,7 @@ It grows through plugins. That means new capabilities can be added without rebui
 
 Some of those plugins are especially important in the background. External authentication helps it fit institutional access models. Lab.js brings browser-based experiments into the same environment. R integration supports more advanced analysis. And custom formulas allow scoring and derived values directly in the system.
 
-On top of that foundation, there are also newer plugins that are more visible to users. Those are the three I want to focus on next.
+And on top of that foundation, there are some newer plugins that are much more visible from the user side. Those are the three I want to show next.
 
 ### Image Placeholder
 
