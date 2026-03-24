@@ -31,18 +31,18 @@ Use a clean title slide with:
 
 ## Slide 2 - What SelfHelp Is
 
-- A modular platform for digital programs
-- One system for content, data, workflows, and mobile
-- Configured through reusable CMS components
-- Hostable under institutional control
+- A modular platform for running digital programs
+- Brings content, assessments, workflows, and mobile delivery into one system
+- Reusable components make projects faster to build and easier to adapt
+- Can be hosted under university control
 
 ### Speaker Notes
 
-The best way to explain SelfHelp is to compare it with the way many digital projects are usually built.
+If I had to explain SelfHelp in one sentence, I would call it a platform for running digital programs.
 
-Normally, you might have one tool for the website, another one for surveys, something else for reminders or workflows, and then maybe a separate mobile solution. SelfHelp brings those parts together in one system. Pages are built from reusable components, data is stored in a structured way, workflows react to what users do, and the same logic can continue on mobile.
+The important point is that it brings together pieces that are often separated. Content, assessments, workflows, and mobile delivery can all live in the same system instead of being spread across different tools.
 
-A simple example would be onboarding, then a survey, then follow-up, then mobile reminders. In many projects, that would mean stitching several systems together. In SelfHelp, that whole flow can stay inside one platform.
+Because it is built from reusable components, new projects do not have to start from zero every time. And because it can be hosted under university control, it fits settings where governance and data protection matter.
 
 ### Image Placeholder
 
@@ -82,20 +82,20 @@ Create a horizontal timeline with 3 big phases:
 
 ## Slide 4 - What Teams Can Do with It
 
-- Build onboarding, content, assessment, and follow-up in one system
-- Collect repeated data over time, including files, voice, and media
-- Personalize journeys by role, group, language, or user state
-- Automate reminders, notifications, and triggered actions
+- Turn a concept into a guided journey from entry to follow-up
+- Run repeated assessments and collect richer inputs over time
+- Adapt content and timing by role, group, language, or user state
+- Automate reminders, tasks, and next steps as the program progresses
 
 ### Speaker Notes
 
-What matters in practice is what teams can actually build with SelfHelp.
+What this means in practice is that a team can take an idea and turn it into a full user journey.
 
 With the platform, a team can create a complete digital program: onboarding, content, structured assessments, reminders, and follow-up. That can all happen in one environment instead of being split across disconnected tools.
 
-For example, imagine a program with onboarding, weekly check-ins, reminder messages, and follow-up assessments. That is the kind of continuous program logic SelfHelp is designed to support.
+A person can enter a program, receive the right content, complete assessments over time, and be guided to the next step automatically. The system can also adapt what people see based on language, group, role, or what has already happened before.
 
-That is why the platform is more than a website builder. It supports an ongoing process.
+It can collect richer input such as files or voice, which makes it more flexible than a simple form-based workflow. So the real value is not only that SelfHelp can publish content. It can run a process over time.
 
 ### Image Placeholder
 
