@@ -2,59 +2,54 @@
 
 Audience: University faculty and academic stakeholders  
 Presentation length: 10 minutes  
-Prepared from a full platform review dated March 23, 2026  
+Prepared from a full platform review dated March 24, 2026  
 Historical reference points reviewed: 2021 and 2023 presentation materials
 
-## Slide 1 - SelfHelp: A Platform for Digital Programs, Research, and Support
+## Slide 1 - SelfHelp at the Faculty Meeting
 
-- SelfHelp began as a self-help and research website platform
-- It has grown into a modular system for content, data, workflows, mobile, and AI
-- It is designed for real programs, not just isolated pages or forms
-- The value is practical: build, run, adapt, and monitor digital interventions in one place
+- We already presented SelfHelp here in 2021
+- Since then, the platform has evolved significantly
+- Today, SelfHelp is no longer just a website system
+- It is a platform for complete digital programs
 
 ### Speaker Notes
 
-Some of you may remember that we already presented SelfHelp here in 2021. For others, this may be the first introduction. In both cases, the interesting part today is to see how far the platform has evolved since then.
+Some of you may remember that we already presented SelfHelp here in 2021. Today I want to reconnect to that earlier presentation and show what has changed since then.
 
-SelfHelp is no longer just a website tool. It has become a platform for building and running digital programs.
+The main message is simple: SelfHelp is no longer just a website system. It has grown into a platform for complete digital programs.
 
-What makes it interesting is the combination. In one system, we can publish content, collect data, automate steps, support mobile use, and now add AI-supported interactions. That means we are not only creating pages. We are creating complete digital journeys.
-
-The point of this talk is to show that SelfHelp has matured in a very practical direction. It now supports the full path from onboarding and content delivery to assessment, follow-up, and intelligent interaction.
+What I want to show today is how that happened. Instead of separate tools for pages, surveys, reminders, and mobile use, we can now think in terms of one connected program.
 
 ### Image Placeholder
 
 Use a clean title slide with:
 - SelfHelp name and subtitle
 - one polished platform screenshot in the background
-- a small three-part visual hint for web, mobile, and AI
+- a small visual hint for web, mobile, and AI
 
 ---
 
 ## Slide 2 - What SelfHelp Is
 
-- A modular platform for building digital programs with reusable components
-- The same system handles content, data collection, automation, permissions, and mobile output
-- It supports institutional hosting and strong control over sensitive data
-- Many use cases can be configured through the CMS rather than custom-coded from scratch
-- A plugin architecture allows the platform to grow without breaking the core
+- A modular platform for digital programs
+- One system for content, data, workflows, and mobile
+- Configured through reusable CMS components
+- Hostable under institutional control
 
 ### Speaker Notes
 
-If someone asks what SelfHelp is in plain language, I would say this: it is a configurable platform for building digital services.
+The best way to explain SelfHelp is to compare it with the way many digital projects are usually built.
 
-Instead of treating a website, a survey, a reminder workflow, and a mobile app as separate projects, SelfHelp brings them together. Pages are assembled from reusable sections. Data is stored in a structured way. Workflows can react to what users do. The same content model can also be rendered for mobile.
+Normally, you might have one tool for the website, another one for surveys, something else for reminders or workflows, and then maybe a separate mobile solution. SelfHelp brings those parts together in one system. Pages are built from reusable components, data is stored in a structured way, workflows react to what users do, and the same logic can continue on mobile.
 
-That is important in a university environment because many projects do not fail on ideas. They fail because too many tools have to be stitched together. SelfHelp reduces that fragmentation.
-
-And because it can be hosted under institutional control, it is suited to settings where governance and data protection matter.
+A simple example would be onboarding, then a survey, then follow-up, then mobile reminders. In many projects, that would mean stitching several systems together. In SelfHelp, that whole flow can stay inside one platform.
 
 ### Image Placeholder
 
 Add a simple diagram:
-- left: editor / researcher / practitioner
-- center: SelfHelp platform
-- right: website, survey, workflow, mobile app, AI assistant
+- left: separate tools
+- center: SelfHelp
+- right: one connected digital program
 
 ---
 
@@ -62,114 +57,99 @@ Add a simple diagram:
 
 - 2021: positioned as a platform for self-help and research websites
 - 2023: expanded toward modular pages, scheduling, and mobile integration
-- 2024 to 2026: stronger data model, workflows, permissions, 2FA, and live refresh mechanisms
+- 2024 to 2026: stronger data model, workflows, permissions, 2FA, and background processing
 - The newest step is AI: general LLM support and supervised therapy-style chat
 - The direction is clear: from content publishing toward structured digital program delivery
 
 ### Speaker Notes
 
-I would connect this slide back to the audience first. We already showed SelfHelp in this faculty setting in 2021, so this is not a completely new story. It is more a continuation. Some people in the room may remember the earlier version, and this slide helps show what changed since then.
+The easiest way to see the change is to look at what the platform was mainly used for at each stage.
 
-At the beginning, the message was quite simple: SelfHelp helped us build self-help and research-oriented websites, host them ourselves, and adapt them without too much custom development.
+In 2021, SelfHelp was mainly presented as a platform for self-help and research-oriented websites. By 2023, it had become more modular and more practical to run, with better page structure, stronger scheduling, and better mobile integration.
 
-After that, the platform became much more operational. The page system became more modular, automation became more reliable, and mobile support became much more usable in practice.
+From 2024 to 2026, a lot of the progress happened in the foundation. The data model became stronger, workflows became more systematic, permissions became clearer, two-factor authentication was added, and background processing became more reliable.
 
-And in the current stage, a lot of the progress is in the foundation: better data structures, more systematic workflows, stronger permissions, two-factor authentication, and infrastructure for background processes and live updates. On top of that, we now have a real AI layer.
-
-So the main point of this slide is: the idea stayed the same, but the platform became much more mature and much more capable.
+And once that stronger base was in place, AI features could be added on top of it. So the overall direction is quite clear. The platform started with publishing content, and it is now moving toward running structured digital programs.
 
 ### Image Placeholder
 
-Create a horizontal timeline with 4 milestones:
-- 2021 foundation
-- 2023 expansion
-- 2024-2025 operational maturity
-- 2026 AI and next-generation architecture
+Create a horizontal timeline with 3 big phases:
+- 2021: pages
+- 2023: structure
+- 2026: program logic and AI
 
 ---
 
-## Slide 4 - What Teams Can Achieve with It
+## Slide 4 - What Teams Can Do with It
 
-- Launch digital programs that combine information, interaction, and follow-up
-- Collect structured data, repeated measures, files, voice, and media
-- Personalize journeys by role, group, language, condition, or user state
-- Automate reminders, notifications, tasks, and triggered actions
-- Reach users on web and mobile through one platform logic
+- Build onboarding, content, assessment, and follow-up in one system
+- Collect repeated data over time, including files, voice, and media
+- Personalize journeys by role, group, language, or user state
+- Automate reminders, notifications, and triggered actions
 
 ### Speaker Notes
 
-This is the outcome slide. Here I would avoid technical detail and focus on what a team can actually build.
+What matters in practice is what teams can actually build with SelfHelp.
 
-A team can create a complete digital program: a landing page, onboarding, assessments, educational or intervention content, reminders, follow-up measures, and dashboards or review views. That can be done inside one environment instead of moving between disconnected systems.
+With the platform, a team can create a complete digital program: onboarding, content, structured assessments, reminders, and follow-up. That can all happen in one environment instead of being split across disconnected tools.
 
-The system is useful whenever a project needs structure over time. That includes research studies, guided learning, support programs, coaching flows, blended care models, or any process where users return repeatedly and the system needs to react to what happened before.
+For example, imagine a program with onboarding, weekly check-ins, reminder messages, and follow-up assessments. That is the kind of continuous program logic SelfHelp is designed to support.
 
-The key idea is simple: SelfHelp supports ongoing journeys, not one-off interactions.
+That is why the platform is more than a website builder. It supports an ongoing process.
 
 ### Image Placeholder
 
 Use a workflow graphic:
-- recruit
 - onboard
 - assess
 - support or teach
+- remind
 - follow up
-- review
-
-Under each step, add one SelfHelp capability.
 
 ---
 
-## Slide 5 - Why SelfHelp Works as a Platform, Not Just a Tool
+## Slide 5 - How SelfHelp Expands
 
-- The core already covers pages, sections, dataTables, conditions, workflows, and ACL
-- The API layer and mobile rendering connect web, app, and external services
-- Survey, experiment, and assessment plugins extend the platform beyond classic forms
-- Analysis and scoring can be pushed further through formula and R-based extensions
-- SSO, sensing, notifications, and video integrations make institutional deployment more realistic
+- SelfHelp grows by adding capabilities without breaking the core system
+- Core supporting plugins: external auth, Lab.js, R, and custom formulas
+- These plugins strengthen real academic and institutional workflows
+- Today I want to highlight 3 newer plugins that are especially visible and practical
 
 ### Speaker Notes
 
-This slide is here to prepare the audience for the three main plugins we will look at next: SurveyJS, the general LLM plugin, and the LLM Therapy Chat plugin.
+One reason SelfHelp has been able to grow is that it expands through plugins.
 
-Before going into those three, I want to show that they do not stand alone. They sit inside a larger platform architecture. There is an API layer that connects the web platform, the mobile app, and external services. There is external authentication support, which matters for institutional deployment. There are also plugins for Lab.js experiments, formula-based logic, R-based computation, video-linked workflows, and sensing data integration.
+That means the platform can add capabilities without rebuilding the core system every time. Some plugins work mainly in the background, but they are important for the whole platform.
 
-The sensing part is worth explaining clearly. Here SelfHelp does not collect the raw wearable data itself. Another platform collects data from devices such as Garmin and similar sources, and SelfHelp can pull that data in and use it in the wider workflow.
+External authentication helps when the platform needs to fit university or institutional access models. Lab.js makes it possible to include browser-based experiments and structured tasks in the same environment. R integration opens the door to more advanced analysis and computation. And custom formulas let us calculate scores and derived values directly inside the platform.
 
-That tells us something important about SelfHelp's identity. It was built to support real projects with different methods and different data sources, not just one standard survey or content format.
-
-If I mention the most important supporting pieces around the three main plugins, I would highlight the API layer, external authentication, Lab.js, R integration, and sensing integration. They make the overall platform much stronger.
+On top of that foundation, there are newer plugins that are more visible from the user side. Those are the three I want to highlight next because they show clearly where the platform is going.
 
 ### Image Placeholder
 
-Create a platform map with five clusters:
-- core CMS
-- workflow and security
-- research and survey tools
-- analytics and sensing
-- mobile and external integration
-
-Show the three focus plugins highlighted in a different color.
+Create a platform diagram:
+- center: SelfHelp core
+- one ring: supporting plugins
+- highlight: SurveyJS, LLM, LLM Therapy Chat
 
 ---
 
-## Slide 6 - Focus Plugin 1: SurveyJS
+## Slide 6 - Featured Plugin 1: SurveyJS
 
-- Advanced survey creation with versioning, publishing, and scheduling
-- Supports autosave, timing metadata, edit mode, access control, and dashboards
-- Handles files, PDF export, and voice-record responses
-- Allows dynamic content such as API-driven dropdowns and JSON replacement
-- Strong fit for repeated assessments, diaries, intake flows, and structured questionnaires
+- Versioned survey creation, publishing, and scheduling
+- Autosave, edit mode, timing metadata, and dashboards
+- File upload, PDF export, and voice-record responses
+- Stronger data quality for repeated and longitudinal assessment
 
 ### Speaker Notes
 
-SurveyJS is one of the clearest examples of how SelfHelp has moved beyond simple forms.
+SurveyJS is a good example of how SelfHelp has moved beyond simple forms.
 
-What matters here is not only that surveys can be built. It is that surveys become managed assets inside the platform. They can be versioned, scheduled, restricted, edited, and connected to dashboards. Response metadata such as timing and completion context is also available, which is valuable for both research quality and operational monitoring.
+The important point is not just that we can create surveys. We can manage them properly inside the platform. They can be versioned, scheduled, edited later, and connected to dashboards.
 
-The richer input support is also worth mentioning. File upload and voice recording make the survey layer more flexible than a standard text-only questionnaire.
+That improves data quality and makes repeated or longitudinal assessment easier to handle. It also gives more flexibility, because responses can include file uploads and voice recordings as well.
 
-So the message is: SurveyJS turns SelfHelp into a serious structured assessment environment, while still keeping it connected to the rest of the platform logic.
+So SurveyJS turns SelfHelp into a much more serious environment for structured data collection over time.
 
 ### Image Placeholder
 
@@ -177,119 +157,107 @@ Use a split visual:
 - left: survey editor or creator interface
 - right: response dashboard or filtered results table
 
-Add callouts for:
-- versioning
-- voice response
-- edit mode
-- dashboard
-
 ---
 
-## Slide 7 - Focus Plugin 2: LLM
+## Slide 7 - Featured Plugin 2: LLM
 
-- Adds configurable AI assistants directly inside SelfHelp pages
-- Supports text, files, images, and speech-to-text input
-- Can return free conversation or structured JSON and form-like outputs
-- Includes reusable prompt scripts, async execution, and admin monitoring
-- Prompt Lab enables testing, replay, and evaluation before live rollout
+- Controlled AI assistants inside SelfHelp pages
+- Text, file, image, and speech-to-text input
+- Conversation output or structured JSON output, including OpenAI-style structures
+- Prompt Lab for testing, replay, and evaluation before rollout
 
 ### Speaker Notes
 
-I would present this as an AI layer for controlled use, not as a chatbot novelty.
+This is not a chatbot. It is a controlled, testable AI component.
 
-The LLM plugin allows us to place a purpose-built assistant inside any page. That assistant can be narrow or broad depending on the prompt context. It can work with uploaded material, image-capable models, and voice input. And importantly, it can produce either conversational answers or structured outputs that the rest of the platform can use.
+The LLM plugin allows us to place a purpose-built assistant inside any page, with a defined context and a clearly bounded role. That already makes it different from a general chat tool.
 
-What makes this more serious than a generic chat widget is everything around it. There are reusable prompt scripts, background execution patterns, an admin view over conversations, and a prompt lab for evaluating prompt versions against datasets and replay cases.
+An important part of that control is prompt management. Prompts can be developed, versioned, tested, replayed, and compared before they are used in a real program. That is especially valuable in an academic setting, because AI behavior does not just have to work once. It has to be reviewable and improvable over time.
 
-That last part is especially strong in an academic environment. It means AI behavior can be reviewed, tested, and improved in a more disciplined way before it is exposed in a real program.
+The plugin can also work with uploaded material, image-capable models, and voice input, and it can return either conversational answers or structured outputs that the rest of the platform can use.
+
+That structured side is important as well. The plugin can work with structured JSON responses in the style people now know from OpenAI-based workflows, which makes it much easier to connect AI output back into the platform in a controlled way.
+
+It is also important that, at the moment, we are using the university's local LLM infrastructure. That means the interaction stays inside the university environment, which is a strong point when data protection and institutional control matter.
 
 ### Image Placeholder
 
 Build a product montage with:
 - AI chat screen
 - upload and microphone controls
-- example structured response card
+- structured response example
 - prompt lab or admin monitoring screenshot
 
 ---
 
-## Slide 8 - Focus Plugin 3: LLM Therapy Chat
+## Slide 8 - Featured Plugin 3: LLM Therapy Chat
 
-- Combines patient-facing AI chat with therapist oversight in one conversation space
-- Therapists get a dashboard with unread counts, alerts, notes, summaries, and drafts
-- Users can escalate directly to a human instead of staying only with AI
-- Safety logic can block AI and move the case into human-only mode
-- The result is a supervised model of AI-supported communication, not an unsupervised bot
+- AI-supported or human-only communication in the same framework
+- Therapist dashboard with alerts, notes, summaries, and drafts
+- Direct escalation from AI to human handling
+- Useful for both service delivery and controlled comparison studies
 
 ### Speaker Notes
 
-This is probably the most distinctive plugin in the current platform.
+This is the most distinctive plugin in the current platform.
 
-The important point is that it is not trying to replace human support. It is building a supervised interaction model. A user can interact with AI, but therapists remain present through a dedicated dashboard. They can review the conversation, intervene, send their own messages, create notes, generate drafts, and manage risk status.
+The key idea is supervised communication. A user can interact with AI, but therapists remain present through a dedicated dashboard where they can review conversations, intervene, send their own messages, create notes, generate drafts, and manage risk status.
 
-The escalation model is central. The system supports moving from AI-supported interaction to direct human handling. And when safety signals are triggered, the conversation can be switched into human-only mode.
-But it is also important to say that this plugin does not have to run as AI chat. It can also run in a human-only setup. That means we can configure different groups or different study conditions and compare, for example, AI-supported interaction versus purely human interaction.
+It is also important that the plugin can run without AI. That allows controlled comparison between AI-supported and human-only communication inside the same framework.
 
-That is why this plugin is so valuable conceptually. It is flexible enough for service delivery, but also very interesting for research design, because it allows different communication models inside the same framework while keeping therapist oversight and responsibility in place.
+That makes it interesting not only for practice, but also for research.
 
 ### Image Placeholder
 
 Use a three-panel composition:
 - user chat screen
-- therapist dashboard with patient list
-- alert or risk state panel showing human-only fallback
+- therapist dashboard
+- mode or alert panel showing AI-supported and human-only options
 
 ---
 
-## Slide 9 - Mobile App: Bringing SelfHelp into Daily Use
+## Slide 9 - Mobile App
 
-- The mobile app uses the same platform logic through mobile-ready JSON output
-- It already supports surveys, AI chat, therapy chat, notifications, camera, and microphone
-- This enables repeated interaction in real contexts, not only desktop sessions
-- Mobile support increases adherence, timeliness, and day-to-day relevance
-- SelfHelp becomes a living service, not just a web portal
+- The same program logic can continue on mobile
+- Surveys, AI chat, therapy chat, notifications, camera, and microphone are already supported
+- This makes repeated real-world interaction much easier
+- SelfHelp becomes part of daily use, not only desktop use
 
 ### Speaker Notes
 
-The mobile app is important because many digital programs only become useful when they leave the desktop.
+The mobile app is important because complete digital programs rarely stay on the desktop.
 
-SelfHelp already has a mobile frontend that works with the same platform logic. Surveys, AI chat, therapy chat, notifications, camera-based input, and microphone-based input are already part of that picture.
+SelfHelp already has a mobile frontend that uses the same platform logic. Surveys, AI chat, therapy chat, notifications, camera-based input, and microphone-based input are already part of that picture.
 
-That matters because repeated interaction often happens in the middle of daily life. A system that can only be used from a desktop browser is much more limited. The mobile app makes check-ins, reflections, uploads, and conversations easier and more natural.
+That matters because repeated interaction often happens in the middle of daily life. The mobile app makes check-ins, uploads, reflections, and conversations more natural.
 
-So the platform is not just able to publish content. It can stay present where real use actually happens.
+So the same program can stay with the user across different situations, instead of being split across separate tools.
 
 ### Image Placeholder
 
 Use phone mockups with three screens:
 - survey
 - AI chat
-- notification or therapy chat
-
-Optional overlay icons:
-- camera
-- microphone
-- push notification
+- therapy chat or notification
 
 ---
 
-## Slide 10 - How SelfHelp Compares to Existing Open, Self-Hosted Options
+## Slide 10 - Alternatives
 
-- LimeSurvey is excellent for surveys, but it is primarily a survey product
-- JATOS and formr are strong for online studies, yet they are less suited to content-rich program delivery
-- Moodle is strong for learning delivery, but it is not built around intervention workflows or supervised support logic
-- SelfHelp brings content, assessments, workflows, mobile, permissions, and AI into one coherent stack
-- Its advantage is not one feature in isolation, but the fact that the pieces already work together
+- LimeSurvey is strong for surveys
+- JATOS and formr are strong for online studies
+- Moodle is strong for learning delivery
+- SelfHelp is strongest when everything needs to stay connected
 
 ### Speaker Notes
 
-I would present this carefully and fairly. There is no need to pretend that SelfHelp replaces every other system in every scenario.
+Each of these tools is strong in its own domain.
 
-LimeSurvey is a very strong open and self-hosted survey platform. If the only goal is questionnaire administration, it is a serious option. JATOS and formr are also very relevant for online studies, especially for experiment delivery and longitudinal research logic. Moodle is well established for digital learning delivery.
+LimeSurvey is excellent when the main need is survey administration. JATOS and formr are strong choices for online studies and longitudinal research logic. Moodle is a mature platform for digital learning delivery.
 
-But SelfHelp is solving a different problem. It is trying to unify several layers that are often split apart: content delivery, structured data collection, conditional logic, automation, mobile use, permissions, and now AI-supported interaction. That makes it closer to a digital program platform than to a single-category tool.
+SelfHelp solves a different problem. It becomes strongest when content, data, workflows, mobile use, permissions, and AI all need to stay connected inside one locally controlled system.
 
-So I would not say "SelfHelp is universally better." I would say: when an institution wants one locally controlled platform for digital programs that combine content, interaction, data, workflows, and AI, SelfHelp has a stronger overall fit than stitching together separate products.
+That is the difference between using separate tools and building one continuous digital program.
 
 ### Image Placeholder
 
@@ -300,69 +268,39 @@ Use a comparison matrix with columns:
 - SelfHelp
 
 Rows:
-- content programs
 - surveys
+- studies
 - workflows
 - mobile continuity
-- supervised AI
+- AI integration
 - local control
 
-Highlight SelfHelp where the cross-category combination is strongest.
-
 ---
 
-## Slide 11 - SelfHelp 2: Why the Redesign Matters
+## Slide 11 - Why Use SelfHelp
 
-- SelfHelp 2 is moving toward a cleaner API-first backend and modern frontend
-- Page structure, section logic, and publishing become more explicit and maintainable
-- The new architecture should make future plugins and interfaces easier to build
-- A key strategic goal is structured page JSON that LLMs can generate or adapt
-- The redesign is therefore not cosmetic; it prepares the platform for faster, safer content creation
+- One platform for complete digital programs
+- One structure across content, data, workflows, mobile, and AI
+- Local control plus flexibility for future development
+- SelfHelp 2 can make the platform even more structured and easier to extend
 
 ### Speaker Notes
 
-This slide should be framed as roadmap, not as a finished release.
+The summary is simple.
 
-The important point is why a new version matters. The redesign is not only about modern technology. It is about making the platform's content model cleaner and more explicit. When pages, sections, and fields are represented through stable APIs and schemas, the whole system becomes easier to maintain, easier to extend, and easier to validate.
+SelfHelp gives one platform where content, assessments, workflows, mobile interaction, and AI can be part of the same program. That is already useful today.
 
-That also unlocks the next major step: LLM-assisted content building. The idea is that an AI request could eventually return structured page context or page JSON, which the platform can then use in a controlled way. That is much more powerful than asking an LLM for plain text. It means AI could help generate actual platform content in the language the system understands.
+It also gives local control and room for future development. And that is where SelfHelp 2 becomes relevant. It is already in development, and I would say it is roughly seventy to eighty percent there. The point is not redesign for its own sake. The point is to make the platform more structured, easier to extend, and much faster to build with.
 
-That part is not finished yet, and I would say that clearly. But it is one of the strongest reasons the redesign is strategically important.
+One of the most interesting next steps is LLM-supported content creation. The idea is that the system can generate structured page content much faster, so teams can spend less time building website structure by hand and more time on the actual study design, content quality, and assessment logic.
 
-### Image Placeholder
+And one practical point at the end: if colleagues see value in this direction, especially in the local university AI infrastructure behind it, it would be very helpful to support the move from proof of concept to a permanent service. A short letter of support to ID could make a real difference there.
 
-Create a future-state architecture diagram:
-- content editor
-- SelfHelp 2 frontend
-- SelfHelp 2 backend API
-- structured page JSON
-- optional LLM content generation layer
-- web and mobile outputs
-
-Add a small label: "planned direction, not final release"
-
----
-
-## Slide 12 - Closing: Why SelfHelp Matters Now
-
-- One platform for digital research, teaching, and support programs
-- One structure across web, mobile, workflows, and AI
-- One locally controlled foundation that can keep growing with university needs
-- SelfHelp 2 can make content creation faster, more structured, and eventually AI-assisted
-
-### Speaker Notes
-
-I would close with a calm and confident summary.
-
-SelfHelp is valuable because it already connects pieces that are usually scattered. It gives us one platform where content, assessments, workflows, mobile interaction, and AI can be part of the same program.
-
-The second point is that the platform is moving in the right direction. The current system is already capable. The next version is about making that capability easier to scale, easier to maintain, and easier to create with.
-
-If I had to end with one line, I would say this: SelfHelp is becoming a serious institutional foundation for digital programs, not just a collection of digital tools.
+The final point I would leave with is this: SelfHelp moves us from isolated digital tools to continuous digital programs.
 
 ### Image Placeholder
 
 Use a strong closing visual:
 - one clean platform summary diagram
 - or a layered stack showing content, data, workflow, mobile, and AI
-- optional final tagline: "From digital pages to digital programs"
+- optional final tagline: "From digital tools to continuous digital programs"
