@@ -14,12 +14,9 @@ Historical reference points reviewed: 2021 and 2023 presentation materials
 
 ### Speaker Notes
 
-Some of you may remember that we presented SelfHelp here in 2021. Today I want to briefly reconnect to that earlier version and show what has changed since then.
+Some of you may remember that we presented SelfHelp here in 2021. Today I want to build on that and show how much the platform has changed since then.
 
-The main point is simple. SelfHelp is no longer just a website system. It has grown into a platform for complete digital programs.
-
-That is the story behind this presentation. We started with separate digital pieces. We are moving toward one connected program.
-
+The main message is simple. SelfHelp is no longer just a website system. It has grown into a platform for complete digital programs.
 ### Image Placeholder
 
 Use a clean title slide with:
@@ -40,9 +37,9 @@ Use a clean title slide with:
 
 If I had to explain SelfHelp in one sentence, I would call it a platform for running digital programs.
 
-What makes it useful is that it brings together things that are often split apart. Content, assessments, workflows, and mobile delivery can all live in the same system.
+What makes it useful is that it brings together pieces that are often separate. Content, assessments, workflows, and mobile delivery can all live in the same system.
 
-That makes projects easier to build and easier to adapt later. And because it can run under university control, it also fits settings where governance and data protection matter.
+That makes projects easier to build, easier to adapt, and easier to manage over time. And because it can run under university control, it also fits settings where governance and data protection matter.
 
 ### Image Placeholder
 
@@ -63,13 +60,13 @@ Add a simple diagram:
 
 ### Speaker Notes
 
-The easiest way to understand the evolution is to look at where the emphasis was at each stage.
+The easiest way to understand the evolution is to look at what changed at each stage.
 
 In 2021, SelfHelp was mainly presented as a platform for self-help and research websites. By 2023, it had become more modular and more practical to run, with better page structure, scheduling, and mobile integration.
 
-Then from 2024 to 2026, a lot of the progress happened in the foundation. The data model became stronger, workflows became more systematic, permissions became clearer, and two-factor authentication was added.
+Then from 2024 to 2026, a lot of the progress happened underneath the surface. The data model became stronger, workflows became more systematic, permissions became clearer, and two-factor authentication was added.
 
-Once that foundation became stronger, it made sense to add AI in a more serious way. So if you look at the overall direction, SelfHelp started as a content platform and is now growing into a platform for structured digital programs.
+Once that base became stronger, it made sense to add AI in a more serious way. So the direction is clear. SelfHelp started as a content platform, and it is now growing into a platform for structured digital programs.
 
 ### Image Placeholder
 
@@ -93,7 +90,7 @@ What this means in practice is that a team can take an idea and turn it into a f
 
 With SelfHelp, you can build a complete digital program: onboarding, content, structured assessments, reminders, and follow-up. That can all happen in one environment instead of being spread across disconnected tools.
 
-A person can move through the program step by step. The system can adapt content, timing, and next actions based on role, group, language, or previous activity.
+People can move through the program step by step. The system can adjust content, timing, and next actions based on role, group, language, or what already happened before.
 
 So the value is not only that SelfHelp can publish content. It can run a process over time.
 
@@ -121,9 +118,9 @@ Another important part of the story is how SelfHelp grows.
 
 It grows through plugins. That means new capabilities can be added without rebuilding the core platform every time.
 
-Some of those plugins are especially important in the background. External authentication helps it fit institutional access models. Lab.js brings browser-based experiments into the same environment. R integration supports more advanced analysis. And custom formulas allow scoring and derived values directly in the system.
+Some of those plugins matter mainly in the background. External authentication helps with institutional access. Lab.js brings browser-based experiments into the same environment. R integration supports more advanced analysis. And custom formulas allow scoring and derived values directly in the system.
 
-And on top of that foundation, there are some newer plugins that are much more visible from the user side. Those are the three I want to show next.
+On top of that, there are also newer plugins that are much more visible from the user side. Those are the three I want to show next.
 
 ### Image Placeholder
 
@@ -147,9 +144,9 @@ SurveyJS is a good example of how SelfHelp has moved beyond simple forms.
 
 The key point is not only that surveys can be created. The key point is that they can be managed properly inside the platform. They can be versioned, scheduled, edited later, and connected to dashboards.
 
-That improves data quality and makes repeated assessment much easier to handle. It also makes the whole assessment layer more flexible, because responses can include files and voice recordings.
+That improves data quality and makes repeated assessment much easier to handle. It also makes the assessment layer more flexible, because responses can include files and voice recordings.
 
-So SurveyJS turns SelfHelp into a much stronger environment for structured data collection over time.
+So SurveyJS makes SelfHelp a much stronger environment for structured data collection over time.
 
 ### Image Placeholder
 
@@ -170,11 +167,11 @@ Use a split visual:
 
 The LLM plugin should not be understood as just a chatbot. It is better understood as a controlled and testable AI component.
 
-It lets us place a purpose-built assistant inside a page, with a clear role and a clear context. An important part of that is prompt management. Prompts can be versioned, tested, replayed, and improved before they are used in a real setting.
+It lets us place a purpose-built assistant inside a page, with a clear role and a clear context. A very important part of that is prompt management. Prompts can be versioned, tested, replayed, and improved before they are used in a real setting.
 
 The plugin can also work with files, images, and voice input. And it can return either normal conversation or structured JSON output, including formats that fit OpenAI-style workflows.
 
-That matters because it makes AI output easier to connect back into the platform in a controlled way. And at the moment, we are using the university's local LLM infrastructure, which means the interaction stays inside the university environment.
+That matters because it makes AI output easier to connect back into the platform in a controlled way. And right now, we are using the university's local LLM infrastructure, which means the interaction stays inside the university environment.
 
 ### Image Placeholder
 
@@ -253,7 +250,7 @@ LimeSurvey is very strong for surveys. JATOS and formr are strong for online stu
 
 SelfHelp is strongest in a different kind of case. It becomes most valuable when content, data collection, workflows, mobile use, permissions, and AI all need to stay connected in one locally controlled system.
 
-So the difference is not that it replaces every other tool. The difference is that it connects more of the full program in one place.
+So the point is not that it replaces every other tool. The point is that it connects more of the full program in one place.
 
 ### Image Placeholder
 
@@ -290,9 +287,9 @@ At the same time, SelfHelp 2 is already well underway. It is not just a redesign
 
 One especially promising next step is LLM-supported content creation. That could reduce the time spent building website structure by hand and give teams more time for the actual study design, content quality, and assessment logic.
 
-And if you see value in this direction, especially in the local university AI infrastructure behind it, please support ID with “letter of support” so that the local LLM infrastructure can be turned into a permanent Uni service.
+And if you see value in this direction, especially in the local university AI infrastructure behind it, I would really encourage you to support ID with a short letter of support so that this local LLM service can become a permanent university service.
 
-At the end, the main message I would leave you with is this: SelfHelp moves us from isolated digital tools to continuous digital programs.
+The main message I would leave you with is this: SelfHelp moves us from isolated digital tools to continuous digital programs.
 
 
 ### Image Placeholder
